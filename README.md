@@ -4,4 +4,4 @@
 
 ## 预览
 
-![海姆达尔](./design-jpeg/Heimdall.jpeg)
+![海姆达尔](./design-jpeg/Heimdall.jpg)
